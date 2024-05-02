@@ -1,0 +1,14 @@
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\bin\Debug\net8.0\ConsoleCalculatorBmi.exe
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\bin\Debug\net8.0\ConsoleCalculatorBmi.deps.json
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\bin\Debug\net8.0\ConsoleCalculatorBmi.runtimeconfig.json
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\bin\Debug\net8.0\ConsoleCalculatorBmi.dll
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\bin\Debug\net8.0\ConsoleCalculatorBmi.pdb
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\ConsoleCalculatorBmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\ConsoleCalculatorBmi.AssemblyInfoInputs.cache
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\ConsoleCalculatorBmi.AssemblyInfo.cs
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\ConsoleCalculatorBmi.csproj.CoreCompileInputs.cache
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\ConsoleCalculatorBmi.dll
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\refint\ConsoleCalculatorBmi.dll
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\ConsoleCalculatorBmi.pdb
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\ConsoleCalculatorBmi.genruntimeconfig.cache
+D:\ConsoleCalculatorBmi\ConsoleCalculatorBmi\obj\Debug\net8.0\ref\ConsoleCalculatorBmi.dll
